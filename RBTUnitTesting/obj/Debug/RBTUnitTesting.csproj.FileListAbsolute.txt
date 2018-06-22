@@ -1,0 +1,17 @@
+D:\project\CSU\Software Ingeneering\RedBlackTree\RBTUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\project\CSU\Software Ingeneering\RedBlackTree\RBTUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\project\CSU\Software Ingeneering\RedBlackTree\RBTUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\project\CSU\Software Ingeneering\RedBlackTree\RBTUnitTesting\bin\Debug\RBTUnitTesting.dll
+D:\project\CSU\Software Ingeneering\RedBlackTree\RBTUnitTesting\bin\Debug\RBTUnitTesting.pdb
+D:\project\CSU\Software Ingeneering\RedBlackTree\RBTUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\project\CSU\Software Ingeneering\RedBlackTree\RBTUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\project\CSU\Software Ingeneering\RedBlackTree\RBTUnitTesting\bin\Debug\RBTree.exe
+D:\project\CSU\Software Ingeneering\RedBlackTree\RBTUnitTesting\bin\Debug\RBTree.pdb
+D:\project\CSU\Software Ingeneering\RedBlackTree\RBTUnitTesting\bin\Debug\RBTree.exe.config
+D:\project\CSU\Software Ingeneering\RedBlackTree\RBTUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\project\CSU\Software Ingeneering\RedBlackTree\RBTUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\project\CSU\Software Ingeneering\RedBlackTree\RBTUnitTesting\obj\Debug\RBTUnitTesting.csprojResolveAssemblyReference.cache
+D:\project\CSU\Software Ingeneering\RedBlackTree\RBTUnitTesting\obj\Debug\RBTUnitTesting.csproj.CoreCompileInputs.cache
+D:\project\CSU\Software Ingeneering\RedBlackTree\RBTUnitTesting\obj\Debug\RBTUnitTesting.csproj.CopyComplete
+D:\project\CSU\Software Ingeneering\RedBlackTree\RBTUnitTesting\obj\Debug\RBTUnitTesting.dll
+D:\project\CSU\Software Ingeneering\RedBlackTree\RBTUnitTesting\obj\Debug\RBTUnitTesting.pdb

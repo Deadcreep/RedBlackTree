@@ -1,0 +1,10 @@
+D:\project\CSU\Software Ingeneering\RedBlackTree\RedBlackTree\bin\Debug\netcoreapp2.0\RedBlackTree.deps.json
+D:\project\CSU\Software Ingeneering\RedBlackTree\RedBlackTree\bin\Debug\netcoreapp2.0\RedBlackTree.runtimeconfig.json
+D:\project\CSU\Software Ingeneering\RedBlackTree\RedBlackTree\bin\Debug\netcoreapp2.0\RedBlackTree.runtimeconfig.dev.json
+D:\project\CSU\Software Ingeneering\RedBlackTree\RedBlackTree\bin\Debug\netcoreapp2.0\RedBlackTree.dll
+D:\project\CSU\Software Ingeneering\RedBlackTree\RedBlackTree\bin\Debug\netcoreapp2.0\RedBlackTree.pdb
+D:\project\CSU\Software Ingeneering\RedBlackTree\RedBlackTree\obj\Debug\netcoreapp2.0\RedBlackTree.csproj.CoreCompileInputs.cache
+D:\project\CSU\Software Ingeneering\RedBlackTree\RedBlackTree\obj\Debug\netcoreapp2.0\RedBlackTree.AssemblyInfoInputs.cache
+D:\project\CSU\Software Ingeneering\RedBlackTree\RedBlackTree\obj\Debug\netcoreapp2.0\RedBlackTree.AssemblyInfo.cs
+D:\project\CSU\Software Ingeneering\RedBlackTree\RedBlackTree\obj\Debug\netcoreapp2.0\RedBlackTree.dll
+D:\project\CSU\Software Ingeneering\RedBlackTree\RedBlackTree\obj\Debug\netcoreapp2.0\RedBlackTree.pdb
